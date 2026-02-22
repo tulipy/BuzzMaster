@@ -1,5 +1,5 @@
 export default {
   preparing: {
-    title: 'Stopwatch',
+    title: 'Contrareloj',
   },
 };
