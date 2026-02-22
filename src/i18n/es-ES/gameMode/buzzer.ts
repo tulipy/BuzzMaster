@@ -1,7 +1,7 @@
 export default {
-  title: 'Buzzer',
+  title: 'Pulsador',
 
-  waitingForBuzzer: 'Esperando buzzer...',
+  waitingForBuzzer: 'Esperando pulsador...',
   controllersReady: '{count} controladores listos!',
 
   action: {
